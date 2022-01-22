@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+
+  background-image: url(task2img.png);
+}
+.myimg {
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  border-style: double;
+  border-color: rgb(211, 43, 226);
+  margin-bottom: 20px;
+}
+#back {
+  background-color: white;
+  border-radius: 2%;
+  margin: 3%;
+  font-family: Montserrat;
+}
+h1 {
+  padding-top: 70px;
+}
+h2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.submit {
+  margin-bottom: 20px;
+}
+hr {
+  width: 90%;
+}
+ul {
+  list-style-position: inside;
+}
